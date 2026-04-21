@@ -1,2 +1,1 @@
-# M3GtoOBJ
-turn your .m3g files from J2ME games into 3d models for your liking on blender
+Blender addon M3G to OBJ conversion tool for extracting 3D models from J2ME games!
